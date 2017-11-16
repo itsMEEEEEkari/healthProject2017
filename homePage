@@ -42,7 +42,7 @@
     }
 .headingPage{
       padding: 10%;
-      background-image: url("https://secure.meetupstatic.com/photos/member/4/4/3/b/highres_260477467.jpeg"); 
+      background-image: url("healthProject2017/background.jpeg"); 
     }
 .parallax { 
     /* The image used */
