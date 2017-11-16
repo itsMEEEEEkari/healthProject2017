@@ -42,7 +42,7 @@
     }
 .headingPage{
       padding: 10%;
-      background-image: url("healthProject2017/background.jpeg"); 
+      background-image: url("healthProject2017/background2.jpeg"); 
     }
 .parallax { 
     /* The image used */
