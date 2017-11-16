@@ -44,7 +44,7 @@
       padding: 10%;
       background-image: url("healthProject2017/background2.jpg"); 
     }
-.parallax { 
+/*.parallax { 
     /* The image used */
     background-image: url("https://secure.meetupstatic.com/photos/member/4/4/3/b/highres_260477467.jpeg");
     /* Full height */
@@ -54,7 +54,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    }
+    }*/
 </style>
 </head>
 <body onscroll="myFunction()">
