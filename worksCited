@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <style>
+    /*Colors:  	#ADA6A6(gray), #ABDDA5(mint), #FA415C(red), #39315A(purple), #4F787C(pale teal), #87B59D(light teal)  */
+    body{
+      font-family: "Century Gothic";
+    }
+#navbar {
+  overflow: hidden;
+  background-color: #adadad;
+}
+#navbar a {
+  float: ;
+  display: block;
+  color: #ABDDA5;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: 	#39315A;
+}
+#navbar a:hover {
+  background-color: #3A3D63;
+  color: #ABDDA5;
+}
+#navbar a.active {
+  background-color: #3A3D63;
+  color: #ABDDA5;
+}
+.introPara{
+      
+      text-align: left;
+      padding: 10%;
+  background-color: rgba(135, 181, 157, 0.85);
+  margin: 10%;
+    }
+.title{
+      text-align: center;
+  color: #87B59D;
+    }
+.headingPage{
+      padding: 10%;
+       
+    }
+.parallax { 
+    /* The image used */
+    background-image: url("http://www.matcl.com/files/attach/images/2791205/013/870/002/cdbabb1dd5db539045a79dbe2b13ddd4.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+</style>
+</head>
+<body onscroll="myFunction()">
+  
+<div class="parallax">                
+<div class="headingPage">
+  <h1 class=title>{Works Cited}</h1>
+  <div class=introPara> <p >“Anxiety Disorders.” National Institute of Mental Health, U.S. Department of Health and Human Services, www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml.</p>
+<p >“Best Books about Social Anxiety? • r/Socialanxiety.” Reddit, www.reddit.com/r/socialanxiety/comments/3x2mgj/best_books_about_social_anxiety/.</p>
+<p >Bronson, Mary H. Glencoe Health. McGraw-Hill Education, 2015.</p>
+<p >Cooper, Sean. “The 10 Best Books For Social Anxiety.” Shynesssocialanxiety.com, shynesssocialanxiety.com/social-anxiety-books/.</p>
+<p >“Generalized Anxiety Disorder (GAD).” Anxiety and Depression Association of America, ADAA, adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad.</p>
+<p >“Generalized Anxiety Disorder.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 13 Oct. 2017, www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803.</p>
+<p >“Generalized Anxiety Disorder: When Worry Gets Out of Control.” National Institute of Mental Health, U.S. Department of Health and Human Services, www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad/index.shtml.</p>
+<p >“Facts & Statistics.” Anxiety and Depression Association of America, ADAA, adaa.org/about-adaa/press-room/facts-statistics.</p>
+<p >Olesen, Jacob. “Top 10 Books for Overcoming Phobias and Anxieties.” FearOf.net, 8 Aug. 2015, www.fearof.net/top-10-books-for-overcoming-phobias-and-anxieties/.</p>
+<p >“Panic Disorder.” Anxiety and Depression Association of America, ADAA, adaa.org/understanding-anxiety/panic-disorder.</p>
+<p >“Panic Disorder: When Fear Overwhelms.” National Institute of Mental Health, U.S. Department of Health and Human Services, www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms/index.shtml.</p>
+<p >“Phobias: Causes, Types, and Symptoms.” Healthline, Healthline Media, www.healthline.com/health/phobia-simple-specific#symptoms.</p>
+<p >“Posttraumatic Stress Disorder (PTSD).” Anxiety and Depression Association of America, ADAA, adaa.org/understanding-anxiety/posttraumatic-stress-disorder-ptsd.</p>
+<p >“Post-Traumatic Stress Disorder.” National Institute of Mental Health, U.S. Department of Health and Human Services, www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd/index.shtml.</p>
+<p >“Post Traumatic Stress Disorder Books.” Post Traumatic Stress Disorder Books, www.mental-health-today.com/ptsd/books/ptsdbooks.htm.</p>
+<p >“Screening for Generalized Anxiety Disorder (GAD).” Anxiety and Depression Association of America, ADAA, adaa.org/screening-generalized-anxiety-disorder-gad.</p>
+<p >“Screening for Panic Disorder.” Anxiety and Depression Association of America, ADAA, adaa.org/screening-panic-disorder.</p>
+<p >“Screening for Posttraumatic Stress Disorder (PTSD).” Anxiety and Depression Association of America, ADAA, adaa.org/screening-posttraumatic-stress-disorder-ptsd.</p>
+<p >“Screening for Specific Phobias.” Anxiety and Depression Association of America, ADAA, adaa.org/living-with-anxiety/ask-and-learn/screenings/screening-specific-phobias.</p>
+<p >“Social Anxiety Disorder.” Anxiety and Depression Association of America, ADAA, adaa.org/understanding-anxiety/social-anxiety-disorder.</p>
+<p >“Social Anxiety Disorder (Social Phobia).” Mayo Clinic, Mayo Foundation for Medical Education and Research, 29 Aug. 2017, www.mayoclinic.org/diseases-conditions/social-anxiety-disorder/symptoms-causes/syc-20353561.</p>
+<p >“Social Anxiety Support.” Liebowitz Social Anxiety Scale Test - SAS, www.socialanxietysupport.com/disorder/liebowitz/.</p>
+<p >“SocialAnxietySupport.com.” SocialAnxietySupportcom, www.socialanxietysupport.com/.</p>
+<p >“Specific Phobias.” Anxiety and Depression Association of America, ADAA, adaa.org/understanding-anxiety/specific-phobias.</p>
+<p >“Test for Social Anxiety Disorder.” Social Anxiety Disorder Test | Social Anxiety Institute, socialanxietyinstitute.org/test-social-anxiety-disorder-find-out-if-you-suffer-social-phobia.</p>
+<p >“15 Best Books on Overcoming Anxiety.” Develop Good Habits, www.developgoodhabits.com/stress-anxiety-books/.</p>
+<p >“5 Great Books About PTSD.” Online Psychology Degree Guide, www.onlinepsychologydegree.info/lists/5-great-books-about-ptsd/.</p>
+  </div
+  </div>
+  </div>
+  
+<div id="navbar">
+  <a class="active" href="https://itsmeeeeekari.github.io/healthProject2017/homePage">Home</a>
+  <a href="https://itsmeeeeekari.github.io/healthProject2017/generalizedAnxietyDisorder">Generalized Anxiety Disorder</a>
+  <a href="https://itsmeeeeekari.github.io/healthProject2017/panicDisorder">Panic Disorder</a>
+  <a href="https://itsmeeeeekari.github.io/healthProject2017/phobiaDisorder">Phobia Disorders</a>
+  <a href="https://itsmeeeeekari.github.io/healthProject2017/PTSD">PTSD</a>
+  <a href="https://itsmeeeeekari.github.io/healthProject2017/socialAnxietyDisorder">Social Anxiety Disorder</a>
+</div>
+  
+
+<script>
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
+
+
+</body>
+</html>
